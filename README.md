@@ -14,7 +14,7 @@ Three main parts work together to make this possible.
 
 How its used:
 
-Right now it uses Selenium because this implementation is more of a proof of concept than a finished idea. This would work far better as a website.
+Right now it uses Selenium because this implementation is more of a proof of concept than a finished idea. This would work far better as a website. Because it uses selenium you will probably need to find your version of ChromeDriver online for your browser.
 
 You open your chessbook and click and drag roughly an outline of the chessboard on the screen (overshooting the area is better). It will then open up your browser.
 
