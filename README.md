@@ -20,7 +20,7 @@ You open your chessbook and click and drag roughly an outline of the chessboard 
 
 How its trained:
 
-Training is a tedious process of manually sorting images into folders. Ive only trained it on 2 books myself currently so the ability for the AI to generalise is not great. You would need to do ideally 50 different piece sets from different sources for this to work amazingly. Once you have sorted into the folders the AI is trained on the dataset to recognise the pieces. To speed up the training process I have included a folder called autofilter which has the AI sort the data first based on what it thinks, meaning that rather than classifying every piece, you can just fix the mistakes made by the AI. I have included a book in autofilter for testing it out on.
+Training is a tedious process of manually sorting images into folders. Ive only trained it on 2 books myself currently so the ability for the AI to generalise is not great. You would need to do ideally 50 different piece sets from different sources for this to work amazingly. Once you have sorted into the folders the AI is trained on the dataset to recognise the pieces. To speed up the training process I have included a folder called autofilter which has the AI sort the data first based on what it thinks, meaning that rather than classifying every piece, you can just fix the mistakes made by the AI. I have included a book in autofilter for testing it out on. 
 
 Otherwise, the code mostly speaks for itself and is fairly well commented. 
 
