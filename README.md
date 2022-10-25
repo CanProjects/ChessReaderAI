@@ -21,7 +21,7 @@ Three main parts work together to make this possible.
 
 # How its used:
 
-Run Main.py . You open your chessbook in chrome. and click and drag roughly an outline of the chessboard on the screen (overshooting the area is better). It will then update the analysis board on lichess in selenium.
+Run Main.py . You open your chessbook in chrome (I think it may need to be named book.pdf). and click and drag roughly an outline of the chessboard on the screen (overshooting the area is better). It will then update the analysis board on lichess in selenium.
 
 Right now it uses Selenium because this implementation is more of a proof of concept than a finished idea. This would work far better as a website. Because it uses selenium you will probably need to find your version of ChromeDriver online for your browser.
 
